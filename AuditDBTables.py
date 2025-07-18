@@ -19,7 +19,7 @@ DB_CONFIG = {
     'port': '5432',
     'dbname': 'testdatabase',
     'user': 'testuser',
-    'password': 'testuser'
+    'password': 'testpassword'
 }
 
 S3_BUCKET = 'audit-table-archives'
